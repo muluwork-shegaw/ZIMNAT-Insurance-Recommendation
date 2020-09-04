@@ -26,24 +26,25 @@ Test.csv - this is the file you will use to test your model.
 VariableDefintions.txt - descriptions of the variables
 
 
-## Resource
--Catboost
+## Reference
+- Catboost
 https://www.kaggle.com/prashant111/catboost-classifier-in-python
 - Predicting Purchased Policy for Customers in Allstate Purchase Prediction Challenge on Kaggle
   https://worldconferences.net/proceedings/aics2014/PAPER%20AICS/A049%20-%20PREDICTING%20PURCHASED%20POLICY%20-%20SABA%20ARSLAN.pdf
 - How to improve model during kaggle challenge 
   https://github.com/justmarkham/kaggle-allstate/blob/master/allstate-presentation.pdf
-Complete Guide to Parameter Tuning in XGBoost with codes in Python (also see 1, 2) 3) 
+- Complete Guide to Parameter Tuning in XGBoost with codes in Python (also see 1, 2) 3) 
 https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
-Stack Machine Learning Models - Get Better Results
+- Stack Machine Learning Models - Get Better Results
 https://mlfromscratch.com/model-stacking-explained/#/
-Ensemble Learning to Improve Machine Learning Results
+- Ensemble Learning to Improve Machine Learning Results
 https://blog.statsbot.co/ensemble-learning-d1dcd548e936?gi=8e1cbcc93959
-Stacking Classifiers for Higher Predictive Performance
+- Stacking Classifiers for Higher Predictive Performance
 https://towardsdatascience.com/stacking-classifiers-for-higher-predictive-performance-566f963e4840
-Fine-tuning XGBoost in Python like a boss
+- Fine-tuning XGBoost in Python like a boss
 https://towardsdatascience.com/fine-tuning-xgboost-in-python-like-a-boss-b4543ed8b1e
-8 Proven Ways for improving the “Accuracy” of a Machine Learning Model
+- 8 Proven Ways for improving the “Accuracy” of a Machine Learning Model
 https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/
-How To Fine Tune Your Machine Learning Models To Improve Forecasting Accuracy
-Mathematical on Boosting and other ML models: https://statweb.stanford.edu/~jhf/ftp/trebst
+- How To Fine Tune Your Machine Learning Models To Improve Forecasting Accuracy
+https://www.kdnuggets.com/2019/01/fine-tune-machine-learning-models-forecasting.html
+- Mathematical on Boosting and other ML models: https://statweb.stanford.edu/~jhf/ftp/trebst
