@@ -30,12 +30,13 @@ VariableDefintions.txt - descriptions of the variables
 - baseline 2 xgboost + considering the correlation between the products by summing up the the product values
 loss -1.33
 - baseline-3 xgboost + considering the correlation between the products by taking the index of the product that they actually subscribe to the products as integer loss 1.58
--baseline-4 xgboost + train the model by all train data without splitting loss -1.47
+- baseline-4 xgboost + train the model by all train data without splitting loss -1.47
 
 
 
 ## Reference
 - Catboost
+https://www.kaggle.com/rajaswa/simple-catboost-classifier
 https://www.kaggle.com/prashant111/catboost-classifier-in-python
 - Predicting Purchased Policy for Customers in Allstate Purchase Prediction Challenge on Kaggle
   https://worldconferences.net/proceedings/aics2014/PAPER%20AICS/A049%20-%20PREDICTING%20PURCHASED%20POLICY%20-%20SABA%20ARSLAN.pdf
