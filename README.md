@@ -26,7 +26,7 @@ Test.csv - this is the file you will use to test your model.
 VariableDefintions.txt - descriptions of the variables
 
 
-Resource
+## Resource
 -Catboost
 https://www.kaggle.com/prashant111/catboost-classifier-in-python
 - Predicting Purchased Policy for Customers in Allstate Purchase Prediction Challenge on Kaggle
