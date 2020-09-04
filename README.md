@@ -26,11 +26,11 @@ Test.csv - this is the file you will use to test your model.
 VariableDefintions.txt - descriptions of the variables
 
 ## Baselines
-- baseline-1 with xgbosst loss - 1.41
+- baseline-1 with xgbosst loss - 0.141
 - baseline 2 xgboost + considering the correlation between the products by summing up the the product values
-loss -1.33
-- baseline-3 xgboost + considering the correlation between the products by taking the index of the product that they actually subscribe to the products as integer loss 1.58
-- baseline-4 xgboost + train the model by all train data without splitting loss -1.47
+loss -0.133
+- baseline-3 xgboost + considering the correlation between the products by taking the index of the product that they actually subscribe to the products as integer loss 0.158
+- baseline-4 xgboost + train the model by all train data without splitting loss -0.147
 
 
 
